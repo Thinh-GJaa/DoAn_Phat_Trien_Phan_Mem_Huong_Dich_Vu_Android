@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:hyph:7.2.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.itextpdf" artifactId="hyph" version="7.2.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/hyph/7.2.2/5865942ed26bb3c48cff58e4331628dfa94bcf5a/hyph-7.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

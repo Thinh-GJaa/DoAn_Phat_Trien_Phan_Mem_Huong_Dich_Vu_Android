@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_twotone_circle_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_twotone_circle_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_customized_layout_blue.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\customized_layout_blue.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction_information.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_information.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_work_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_home_work_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_success_background.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_success_background.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_home.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_confirmation_number_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_confirmation_number_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_settings.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_outline_settings.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_admin_panel_settings_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_admin_panel_settings_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_notification_with_content.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\notification_with_content.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_category_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\spinner_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_customized_layout.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\customized_layout.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_device.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\device.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_decreased_list.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\decreased_list.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_info.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_recovery.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_recovery.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_style_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\button_style_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction_creation.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_creation.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction_menu.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_pop_up.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\pop_up.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_goal_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_goal_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_someone.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\someone.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_illustration.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\illustration.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_btn_background.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\back_btn_background.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_card.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\card.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_google.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_shortcut_creation_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\shortcut_creation_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_fragment_header_style.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\home_fragment_header_style.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_create_card_successfully.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\create_card_successfully.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_increased_list.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\increased_list.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_check.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_report_category_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_report_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_option.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_option.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transactions_by_category.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_by_category.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_layout_custom_dialog.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\layout_custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_account_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\spinner_account_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transactions_by_category_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_by_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_circle_right_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_circle_right_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_color_bg.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\color_bg.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_menu.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_green_lock.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\green_lock.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_shortcut_home_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\shortcut_home_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_goal.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_goal.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_settings_element_header.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_settings_element_header.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_account_report.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_account_report.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_date_range_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_date_range_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_transparent_background.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\transparent_background.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_user.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_custom_dialog.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_alert_danger.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\bg_alert_danger.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\menu.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_customized_layout_2.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\customized_layout_2.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_categories.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_normal_alert.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\normal_alert.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_shortcut_menu_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\shortcut_menu_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_site_settings.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_site_settings.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_card3.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\card3.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_customized_layout_3.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\customized_layout_3.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_content.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\card_content.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_checklist_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_checklist_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_view_list.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_view_list.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_chevron_left.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\chevron_left.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_mail.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_inflow.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\icon_inflow.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_budgets.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budgets.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_category_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_category_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_notification_background.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\notification_background.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sharp_keyboard_arrow_down_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_sharp_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_card2.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\card2.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_card_balance.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\card_balance.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_description_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_description_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_format_list_bulleted.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_outline_format_list_bulleted.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\custom_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_notifications_active_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_notifications_active_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_transaction_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_home_transaction_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_deposit_money_img.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\deposit_money_img.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_lock_open_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_lock_open_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_bg.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\icon_bg.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_circle.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_facebook.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_notif_focus.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\notif_focus.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_shortcut_color_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\shortcut_color_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_shortcut_account_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\shortcut_account_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_account_chart.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_account_chart.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_category_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction_update.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_update.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_accessibility_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_accessibility_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_transaction_menu_photo.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\transaction_menu_photo.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_slide_layout.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\slide_layout.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user_management.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_user_management.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_deposit.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_deposit.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_transactions.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\icon_transactions.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_tittle.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\tittle.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_shortcut_transaction_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\shortcut_transaction_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_message_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_message_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_introduce.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_introduce.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_email_settings.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_email_settings.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_category.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_input_disabled.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\custom_input_disabled.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_button.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_outflow.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\icon_outflow.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_alert_warning.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\bg_alert_warning.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_goal.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_add_goal.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_budget_add.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_add.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_otp_edit_text.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\otp_edit_text.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_account_balance.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_outline_account_balance.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction_statement.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_statement.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_card_creation.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_creation.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_report.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_card_introduce.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_introduce.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_notification_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_home_notification_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_alert_success.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\bg_alert_success.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_shortcut_card_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\shortcut_card_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_people_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_people_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_balance_wallet_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_account_balance_wallet_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_settings_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_settings_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_image.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_goal.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\icon_goal.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_blue.jpg.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\blue.jpg"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\anim_to_bottom.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\anim\\to_bottom.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_radio_text.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\custom_radio_text.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transactions_read_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_read_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate_open.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\anim\\rotate_open.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_circle_outline_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_check_circle_outline_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transactions_read.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_read.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_goal.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\goal.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_alert_info.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\bg_alert_info.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_spinner_bg.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_budget_edit.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_edit.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon_bg_transparent.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\icon_bg_transparent.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_radio.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\custom_radio.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_123_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_123_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_chevron_right.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\chevron_right.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_format_list_numbered_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_format_list_numbered_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\anim_from_bottom.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\anim\\from_bottom.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_cat.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\cat.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_login_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_device2.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\device2.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_home.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_outline_home.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_categories_income_fragment.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\categories_income_fragment.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_view_list.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_outline_view_list.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_stars_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_stars_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_card_creation_failed.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_creation_failed.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_card_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_card_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\menu_transaction_menu.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\menu\\transaction_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_categories_expense_fragment.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\categories_expense_fragment.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_apple.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\apple.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_user.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_successful_popup.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\successful_popup.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dark_mode.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_dark_mode.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_web_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_web_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_format_list_bulleted.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_format_list_bulleted.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_account_circle.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_outline_account_circle.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_downward_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_downward_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_budget_report.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_report.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_budget_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_dark_mode_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_dark_mode_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_password.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_card_creation_successfully.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_creation_successfully.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_menu_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_menu_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_navigation_menu.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_text_color_style_state.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\button_text_color_style_state.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_balance.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_account_balance.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_category_export.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_category_export.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_add_avatar.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\add_avatar.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_archive_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_archive_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_more_horiz_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_local_activity_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_local_activity_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_goal_detail.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_goal_detail.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_keyboard_double_arrow_down_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_double_arrow_down_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\menu_category_menu.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\menu\\category_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_create_card_failed.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\create_card_failed.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_transparent_background_border.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\transparent_background_border.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_circle_left_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_circle_left_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_linear_layout.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\bg_linear_layout.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_indicator.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\indicator.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_reset_password.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_add_circle_outline.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_outline_add_circle_outline.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_keyboard_double_arrow_up_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_double_arrow_up_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_card_update.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_update.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_card.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_card.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_input.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_confirm_alert.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\confirm_alert.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\menu_card_menu.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\menu\\card_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_transaction.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\transaction.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_transaction_preview_statement.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_preview_statement.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_spinner.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\custom_spinner.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_user_management_element.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\user_management_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_bar_chart_24.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\ic_baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\anim_rotate_close.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\anim\\rotate_close.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_setting.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\drawable_recent.png.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\drawable\\recent.png"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\merged_res\\debug\\layout_notif_popup.xml.flat",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\notif_popup.xml"
+    }
+]

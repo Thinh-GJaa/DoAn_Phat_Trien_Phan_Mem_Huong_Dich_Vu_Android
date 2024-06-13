@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_card_introduce.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_introduce.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_menu.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transactions_by_category_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_by_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction_menu.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_menu.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\categories_income_fragment.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\categories_income_fragment.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_category.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_category_export.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_category_export.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_goal.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_goal.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\slide_layout.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\slide_layout.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_card_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_card_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_card.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_card.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_introduce.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_introduce.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_report_category_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_report_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_deposit.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_deposit.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\normal_alert.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\normal_alert.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_card_creation_successfully.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_creation_successfully.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_budget_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_goal.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_add_goal.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_password.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\user_management_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\user_management_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_menu_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_menu_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction_update.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_update.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_transaction_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_home_transaction_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_category_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_card_creation_failed.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_creation_failed.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction_preview_statement.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_preview_statement.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recovery.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_recovery.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_site_settings.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_site_settings.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\confirm_alert.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\confirm_alert.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_account_report.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_account_report.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_report.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction_creation.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_creation.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transactions_by_category.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_by_category.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_goal_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_goal_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_card_creation.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_creation.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_reset_password.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home_notification_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_home_notification_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction_statement.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_statement.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_email_settings.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_email_settings.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_budgets.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budgets.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user_management.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_user_management.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\notif_popup.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\notif_popup.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_card_update.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_card_update.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dark_mode.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_dark_mode.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\spinner_category_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\spinner_category_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\spinner_account_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\spinner_account_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\categories_expense_fragment.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\categories_expense_fragment.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_setting.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_budget_edit.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_edit.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_account_chart.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_account_chart.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transaction_information.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transaction_information.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_budget_report.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_report.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_budget_add.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_budget_add.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\notification_with_content.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\notification_with_content.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transactions_read.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_read.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_goal_detail.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_goal_detail.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transactions_read_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_transactions_read_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_categories.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_categories.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings_element.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_settings_element.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_settings_element_header.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\fragment_settings_element_header.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_user.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_dialog.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "D:\\tmp\\PTIT-Phat-Trien-Ung-Dung-Di-Dong\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    }
+]

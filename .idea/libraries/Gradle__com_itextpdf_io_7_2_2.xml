@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:io:7.2.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.itextpdf" artifactId="io" version="7.2.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/io/7.2.2/ab280225933bd4724114509acfca08cb0215d19a/io-7.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/io/7.2.2/9b7a23eb337449002f39829474ac2987a179e846/io-7.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/io/7.2.2/53455593fdf42bb8d7371a593a376ae83731254b/io-7.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

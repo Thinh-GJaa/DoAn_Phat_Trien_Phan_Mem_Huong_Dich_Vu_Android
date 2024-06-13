@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.AnyChart:AnyChart-Android:1.1.2@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b6372b3c032e035b8c4a295f521be151/transformed/jetified-AnyChart-Android-1.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b6372b3c032e035b8c4a295f521be151/transformed/jetified-AnyChart-Android-1.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b6372b3c032e035b8c4a295f521be151/transformed/jetified-AnyChart-Android-1.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnyChart/AnyChart-Android/1.1.2/e6e0e75393f18a35fa3d6d8ee5260185e314eed9/AnyChart-Android-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnyChart/AnyChart-Android/1.1.2/3245b54c04b3fc16ed4725fbd207d2d26c4802f5/AnyChart-Android-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

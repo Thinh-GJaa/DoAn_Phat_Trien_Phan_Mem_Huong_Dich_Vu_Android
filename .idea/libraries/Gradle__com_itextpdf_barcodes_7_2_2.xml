@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.itextpdf:barcodes:7.2.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.itextpdf" artifactId="barcodes" version="7.2.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/barcodes/7.2.2/c49ffbabe3d34100a2c981c3e5080d900963e63c/barcodes-7.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/barcodes/7.2.2/c54df8bc32bf0208f75655b4153e85eab98278a5/barcodes-7.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.itextpdf/barcodes/7.2.2/5f8f4f7b365ea2c9ae5bccc8d4e5190927a1ee16/barcodes-7.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
